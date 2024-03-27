@@ -1,4 +1,5 @@
 # NarzedziaSec
+Witaj w repozytorium zawierającym listę niektórych najbardziej aktualnych narzędzi stosowanych w dziedzinie cyberbezpieczeństwa. 
 
 # Testowanie penetracyjne (Penetration Testing)
 Proces oceny bezpieczeństwa systemów informatycznych, aplikacji lub sieci poprzez symulowanie ataków przeprowadzanych przez potencjalnego cyberprzestępcę. 
